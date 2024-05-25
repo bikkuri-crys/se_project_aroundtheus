@@ -21,3 +21,5 @@ The images for the project are found in the images folder which were orgiinally 
 
 A link to the video of the description of the project: https://youtu.be/ztq1Swpotm0. 
 
+A link to the GitPages site for this project: https://bikkuri-crys.github.io/se_project_aroundtheus/.
+
