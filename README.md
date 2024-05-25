@@ -8,7 +8,7 @@
 
 **Intro**
 
-This project is a social media webpage / app view of a US traveler named Jacquest Costeau. In the webpage, we can view Jacque's information and a gallery of his travels. We can follow Jacques and have the option to give likes to the individual photos. This webpage is responsive so we can view it from a desktop, tablet, and mobile screen.
+In this project I used adaptive web design to create a layout compatible with different devices such as desktop/tablet/mobile. Some of the techniques I used include grid layout, media queries, flex box and BEM principles. 
 
 **Figma**
 
@@ -17,3 +17,7 @@ This project is a social media webpage / app view of a US traveler named Jacques
 **Images**
 
 The images for the project are found in the images folder which were orgiinally downloaded from the Figma project (above). The icons are in .svg format and the profile is in .jpeg.
+
+
+A link to the video of the description of the project: https://youtu.be/ztq1Swpotm0. 
+
